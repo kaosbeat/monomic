@@ -6,7 +6,7 @@ import java.lang.reflect.Method;
 public class Monome {
 
 	private static int x_dim = 8;
-	private static int y_dim = x_dim;
+	private static int y_dim = 16;
 	private static int[][] ALL_ON;
 	private static int[][] ALL_OFF;
 	private static Integer[] INTS;
